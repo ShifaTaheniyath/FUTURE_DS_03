@@ -105,6 +105,14 @@ Add markdown documentation within the notebook.
 
 
 
+Enhance visualizations with Seaborn or Plotly.
+
+
+
+Automate report generation.
+
+
+
 📬 Contact - Shifa Taheniyath
 
 
@@ -119,6 +127,3 @@ GitHub |  https://github.com/ShifaTaheniyath
 
 Mail | taheniyathshifa785@gmail.com
 
-Enhance visualizations with Seaborn or Plotly.
-
-Automate report generation.
